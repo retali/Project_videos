@@ -1,3 +1,5 @@
 # Project_videos
 Introducción al concepto de pensamiento estratégico para emprendedores
 https://retali.github.io/Project_videos/PEst.html
+
+https://retali.github.io/Project_videos/Estrat.html
